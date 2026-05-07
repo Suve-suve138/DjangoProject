@@ -3,3 +3,4 @@ pillow
 reportlab
 gunicorn
 python-3.11.9
+whitenoise
