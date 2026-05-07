@@ -2,5 +2,4 @@ Django>=5.2,<5.3
 pillow
 reportlab
 gunicorn
-python-3.11.9
 whitenoise
